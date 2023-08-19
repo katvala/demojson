@@ -40,8 +40,8 @@
                         ],
                         "response": [
                             {
-                                "id": 1,
-                                "name": "Muy satisfecho",
+                                "id": "",
+                                "name": "",
                                 "other": "",
                                 "marca": "",
                                 "presentacion": ""
@@ -54,9 +54,9 @@
                         "type": "short_answer",
                         "options": [],
                         "response": {
-                            "id": 1,
+                            "id": "",
                             "name": "",
-                            "other": "El producto es muy bueno",
+                            "other": "",
                             "marca": "",
                             "presentacion": ""
                         }
@@ -68,9 +68,9 @@
                         "options": [],
                         "response": [
                             {
-                                "id": 1,
+                                "id": "",
                                 "name": "",
-                                "other": "El producto es muy bueno y me gusta mucho. El servicio postventa también es muy bueno.",
+                                "other": "",
                                 "marca": "",
                                 "presentacion": ""
                             }
@@ -104,8 +104,8 @@
                         ],
                         "response": [
                             {
-                                "id": 1,
-                                "name": "Muy satisfecho",
+                                "id": "",
+                                "name": "",
                                 "other": "",
                                 "marca": "",
                                 "presentacion": ""
@@ -132,15 +132,15 @@
                         ],
                         "response": [
                             {
-                                "id": 1,
-                                "name": "Shell Helix Ultra 5W-40",
+                                "id": "",
+                                "name": "",
                                 "other": "",
                                 "marca": "",
                                 "presentacion": ""
                             },
                             {
-                                "id": 3,
-                                "name": "Shell Helix XH8 20W-50",
+                                "id": "",
+                                "name": "",
                                 "other": "",
                                 "marca": "",
                                 "presentacion": ""
@@ -173,25 +173,25 @@
                         ],
                         "response": [
                             {
-                                "id": 1,
-                                "name": "Respuesta 1",
+                                "id": "",
+                                "name": "",
                                 "other": "",
-                                "marca": "Marca A",
-                                "presentacion": "Presentación 1"
+                                "marca": "",
+                                "presentacion": ""
                             },
                             {
-                                "id": 2,
-                                "name": "Respuesta 2",
+                                "id": "",
+                                "name": "",
                                 "other": "",
-                                "marca": "Marca B",
-                                "presentacion": "Presentación 2"
+                                "marca": "",
+                                "presentacion": ""
                             },
                             {
-                                "id": 3,
-                                "name": "Respuesta 3",
+                                "id": "",
+                                "name": "",
                                 "other": "",
-                                "marca": "Marca C",
-                                "presentacion": "Presentación 3"
+                                "marca": "",
+                                "presentacion": ""
                             }
                         ]
                     }
