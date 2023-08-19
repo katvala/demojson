@@ -1,0 +1,202 @@
+{
+    "status": {
+        "code": 200,
+        "message": "Surveys listed successfully"
+    },
+    "body": {
+        "quantity": 1,
+        "surveysDTO": [
+            {
+                "id": 1,
+                "start_date": "2023-08-01T00:00:00Z",
+                "end_date": "2023-08-21T00:00:00Z",
+                "solved": false,
+                "questions": [
+                    {
+                        "id": 1,
+                        "name": "¿Qué tan satisfecho estás con nuestros productos?",
+                        "type": "options",
+                        "options": [
+                            {
+                                "id": 1,
+                                "name": "Muy satisfecho"
+                            },
+                            {
+                                "id": 2,
+                                "name": "Satisfecho"
+                            },
+                            {
+                                "id": 3,
+                                "name": "Neutral"
+                            },
+                            {
+                                "id": 4,
+                                "name": "Insatisfecho"
+                            },
+                            {
+                                "id": 5,
+                                "name": "Muy insatisfecho"
+                            }
+                        ],
+                        "response": [
+                            {
+                                "id": 1,
+                                "name": "Muy satisfecho",
+                                "other": "",
+                                "marca": "",
+                                "presentacion": ""
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2,
+                        "name": "Por favor, proporciona tus comentarios: (respuesta corta)",
+                        "type": "short_answer",
+                        "options": [],
+                        "response": {
+                            "id": 1,
+                            "name": "",
+                            "other": "El producto es muy bueno",
+                            "marca": "",
+                            "presentacion": ""
+                        }
+                    },
+                    {
+                        "id": 3,
+                        "name": "Por favor, proporciona tus comentarios:",
+                        "type": "long_answer",
+                        "options": [],
+                        "response": [
+                            {
+                                "id": 1,
+                                "name": "",
+                                "other": "El producto es muy bueno y me gusta mucho. El servicio postventa también es muy bueno.",
+                                "marca": "",
+                                "presentacion": ""
+                            }
+                        ]
+                    },
+                    {
+                        "id": 4,
+                        "name": "¿Qué tan satisfecho estás con nuestro servicio?",
+                        "type": "single_choice",
+                        "options": [
+                            {
+                                "id": 1,
+                                "name": "Muy satisfecho"
+                            },
+                            {
+                                "id": 2,
+                                "name": "Satisfecho"
+                            },
+                            {
+                                "id": 3,
+                                "name": "Neutral"
+                            },
+                            {
+                                "id": 4,
+                                "name": "Insatisfecho"
+                            },
+                            {
+                                "id": 5,
+                                "name": "Muy insatisfecho"
+                            }
+                        ],
+                        "response": [
+                            {
+                                "id": 1,
+                                "name": "Muy satisfecho",
+                                "other": "",
+                                "marca": "",
+                                "presentacion": ""
+                            }
+                        ]
+                    },
+                    {
+                        "id": 5,
+                        "name": "¿Qué productos te gustaría que agreguemos a nuestro catálogo?",
+                        "type": "multiple_choice",
+                        "options": [
+                            {
+                                "id": 1,
+                                "name": "Shell Helix Ultra 5W-40"
+                            },
+                            {
+                                "id": 2,
+                                "name": "Shell Helix XH7 10W-40"
+                            },
+                            {
+                                "id": 3,
+                                "name": "Shell Helix XH8 20W-50"
+                            }
+                        ],
+                        "response": [
+                            {
+                                "id": 1,
+                                "name": "Shell Helix Ultra 5W-40",
+                                "other": "",
+                                "marca": "",
+                                "presentacion": ""
+                            },
+                            {
+                                "id": 3,
+                                "name": "Shell Helix XH8 20W-50",
+                                "other": "",
+                                "marca": "",
+                                "presentacion": ""
+                            }
+                        ]
+                    },
+                    {
+                        "id": 6,
+                        "name": "Pregunta con opciones y datos adicionales",
+                        "type": "answer_and_options",
+                        "options": [
+                            {
+                                "id": 1,
+                                "name": "Respuesta 1",
+                                "marca": "Marca A",
+                                "presentacion": "Presentación 1"
+                            },
+                            {
+                                "id": 2,
+                                "name": "Respuesta 2",
+                                "marca": "Marca B",
+                                "presentacion": "Presentación 2"
+                            },
+                            {
+                                "id": 3,
+                                "name": "Respuesta 3",
+                                "marca": "Marca C",
+                                "presentacion": "Presentación 3"
+                            }
+                        ],
+                        "response": [
+                            {
+                                "id": 1,
+                                "name": "Respuesta 1",
+                                "other": "",
+                                "marca": "Marca A",
+                                "presentacion": "Presentación 1"
+                            },
+                            {
+                                "id": 2,
+                                "name": "Respuesta 2",
+                                "other": "",
+                                "marca": "Marca B",
+                                "presentacion": "Presentación 2"
+                            },
+                            {
+                                "id": 3,
+                                "name": "Respuesta 3",
+                                "other": "",
+                                "marca": "Marca C",
+                                "presentacion": "Presentación 3"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
